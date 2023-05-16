@@ -448,32 +448,32 @@ function carregaImagemForca() {
         
         
         case 5: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca01.png')"
+            document.getElementById("imagem").style.background = "url('img/forca01.png')"
             break;
         
         case 4: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca02.png')"
+            document.getElementById("imagem").style.background = "url('img/forca02.png')"
             break;
         
         case 3: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca03.png')"
+            document.getElementById("imagem").style.background = "url('img/forca03.png')"
             break;
 
         case 2: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca04.png')"
+            document.getElementById("imagem").style.background = "url('img/forca04.png')"
             break;
 
         case 1: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca05.png')"
+            document.getElementById("imagem").style.background = "url('img/forca05.png')"
             break;
 
         case 0: //se eu tiver 5 tentativas quero que a imagem que apareça seja a que esta abaixo
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca06.png')"
+            document.getElementById("imagem").style.background = "url('img/forca06.png')"
             break;
 
         
         default:
-            document.getElementById("imagem").style.background = "url('../jogoforca/img/forca01.png')"
+            document.getElementById("imagem").style.background = "url('img/forca01.png')"
             
         
         break;
